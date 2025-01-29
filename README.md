@@ -8,6 +8,7 @@
 - 🏗️ Founder @ [DevDotCom](https://www.devdotcom.tech/)
 - 👥 Core Team Member @ [GDG Kolkata](https://gdg.community.dev/gdg-kolkata/)
 - 🧑‍🎓 Student of Computer Science and Enginnering
+- 🏆 Winners of Smart India Hackathon 2024 (ISRO)
 - 🥇 Winner of [StatusCode0(MLH Hackathon)](https://devfolio.co/statuscode0/dashboard)
 
 # 🤹‍♂️ Skills:
