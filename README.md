@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-- 🔨 Intern @[Heizen](https://heizen.work/)
+- 🔨 Intern @ [Heizen](https://heizen.work/)
 - 🚀 Ex-Intern @ [SAC, ISRO](https://www.sac.gov.in/Vyom/)
 - 🏢 Ex-Intern @ [Invisible Studios](https://invisible.af)
 - 💻 Ex-Fullstack Intern @ [PlayTheory Labs](https://playtheory.xyz)
