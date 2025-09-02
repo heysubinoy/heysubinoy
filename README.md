@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-- 🧑‍🔬 Forward Deployed Enginner Trainne @ [Accuknox](https://accuknox.com/)
+- 🧑‍🔬 Forward Deployed Enginner Trainee @ [Accuknox](https://accuknox.com/)
 - 🔨 Ex-Intern @ [Heizen (Formerly OpenGig)](https://heizen.work/)
 - 🚀 Ex-Intern @ [SAC, ISRO](https://www.sac.gov.in/Vyom/)
 - 🏢 Ex-Intern @ [Invisible Studios](https://invisible.af)
