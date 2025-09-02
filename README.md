@@ -16,7 +16,7 @@
 
 # 🤹‍♂️ Skills:
 - Typescript, Javascript, Go, Python, C++, C
-- Nodejs, Flask 
+- Nodejs, Flask, NestJs, Gin 
 - Nextjs, Reactjs, React Native, Threejs
 - Supabase, MongoDB, FireStore, PostgreSQL, MySQL
 - AWS, Azure, Vercel, GCP
